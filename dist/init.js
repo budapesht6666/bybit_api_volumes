@@ -26,5 +26,5 @@ function init() {
         }
         console.log(`interval 1000------------------`);
         // TODO далее чатGPT
-    }, 5000);
+    }, 5 * 60 * 1000);
 }
