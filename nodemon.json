@@ -1,0 +1,11 @@
+{
+	"watch": [
+		"src"
+	],
+	"ext": "ts",
+	"exec": "tsc && node dist/index.js",
+	"ignore": [
+		"dist/*"
+	],
+	"delay": "1000"
+}
